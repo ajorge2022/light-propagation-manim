@@ -43,14 +43,14 @@ If you prefer, manually copy each file into `scripts/` and `docs/videos/` using 
 
 ## Web gallery and links in the paper
 
-Every figure has its own `docs/fig01.html` to `docs/fig13.html` page. Each HTML page contains an embedded video using the filenames above, and a link to its `.py` source.
+The home page displays silent inline video previews for all 13 figures. Individual pages provide full playback, video downloads, and source-code links to the public GitHub scripts.
 
-The LaTeX manuscript in `manuscript/Light_Propagation_with_animation_links.tex` links to the individual **HTML pages**, so **the figure links do not need to change** just because the MP4 filenames have changed. You must replace `YOUR_GITHUB_USERNAME` with the username of your public GitHub account in the HTML pages and manuscript.
+The LaTeX manuscript in `manuscript/Light_Propagation_with_animation_links.tex` links to the individual **HTML pages**, so **the figure links do not need to change** just because the MP4 filenames have changed. The website uses the GitHub account `ajorge2022`.
 
-- Repository: `https://github.com/YOUR_GITHUB_USERNAME/light-propagation-manim`
-- Gallery: `https://YOUR_GITHUB_USERNAME.github.io/light-propagation-manim/`
-- Figure 01: `https://YOUR_GITHUB_USERNAME.github.io/light-propagation-manim/fig01.html`
-- Figure 13: `https://YOUR_GITHUB_USERNAME.github.io/light-propagation-manim/fig13.html`
+- Repository: `https://github.com/ajorge2022/light-propagation-manim`
+- Gallery: `https://ajorge2022.github.io/light-propagation-manim/`
+- Figure 01: `https://ajorge2022.github.io/light-propagation-manim/fig01.html`
+- Figure 13: `https://ajorge2022.github.io/light-propagation-manim/fig13.html`
 
 **Enable GitHub Pages:** Settings → Pages → Deploy from a branch → `main` → `/docs`.
 
