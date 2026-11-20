@@ -1,0 +1,93 @@
+[
+  {
+    "figure": 1,
+    "title": "Single-slit diffraction",
+    "python": "fig01_manim.py",
+    "video": "Fig01_Single_slit_diffraction.mp4",
+    "scene": "Figura01Difraccion"
+  },
+  {
+    "figure": 2,
+    "title": "Law of reflection",
+    "python": "fig02_manim.py",
+    "video": "Fig02_Law_of_Reflection.mp4",
+    "scene": "Figura02Reflexion"
+  },
+  {
+    "figure": 3,
+    "title": "Refraction and Snell's law",
+    "python": "fig03_manim.py",
+    "video": "Fig03_Refraction.mp4",
+    "scene": "Figura03Refraccion"
+  },
+  {
+    "figure": 4,
+    "title": "Dispersion of light through a prism",
+    "python": "fig04_manim.py",
+    "video": "Fig04_Dispersion_Prism.mp4",
+    "scene": "Figura04DispersionPrisma"
+  },
+  {
+    "figure": 5,
+    "title": "Linear polarization and Malus's law",
+    "python": "fig05_manim.py",
+    "video": "Fig05_Linear_Polarization.mp4",
+    "scene": "Figura05PolarizacionMalus"
+  },
+  {
+    "figure": 6,
+    "title": "Material birefringence",
+    "python": "fig06_manim.py",
+    "video": "Fig06_Birefringence.mp4",
+    "scene": "Figura06Birrefringencia"
+  },
+  {
+    "figure": 7,
+    "title": "Compton scattering",
+    "python": "fig07_manim.py",
+    "video": "Fig07_Compton_Scattering.mp4",
+    "scene": "Figura07Compton"
+  },
+  {
+    "figure": 8,
+    "title": "QED Compton scattering: s- and u-channels",
+    "python": "fig08_manim.py",
+    "video": "Fig08_Compton_QED.mp4",
+    "scene": "Figura08ComptonQED"
+  },
+  {
+    "figure": 9,
+    "title": "Breit–Wheeler pair production",
+    "python": "fig09_manim.py",
+    "video": "Fig09_Breit_Wheeler.mp4",
+    "scene": "Figura09BreitWheeler"
+  },
+  {
+    "figure": 10,
+    "title": "Bethe–Heitler pair production",
+    "python": "fig10_manim.py",
+    "video": "Fig10_Bethe_Heitler.mp4",
+    "scene": "Figura10BetheHeitler"
+  },
+  {
+    "figure": 11,
+    "title": "Light-by-light scattering",
+    "python": "fig11_manim.py",
+    "video": "Fig11_Light_Light_Scattering.mp4",
+    "scene": "Figura11LightByLight"
+  },
+  {
+    "figure": 12,
+    "title": "Vacuum polarization",
+    "python": "fig12_manim.py",
+    "video": "Fig12_Vacuum_Polarization.mp4",
+    "scene": "Figura12VacuumPolarization"
+  },
+  {
+    "figure": 13,
+    "title": "Photon splitting in an external magnetic field",
+    "python": "fig13_manim.py",
+    "video": "Fig13_Photon_Splitting.mp4",
+    "scene": "Figura13PhotonSplitting"
+  }
+]
